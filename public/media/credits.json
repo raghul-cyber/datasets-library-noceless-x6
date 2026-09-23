@@ -1,0 +1,145 @@
+{
+  "project": "NOISELESS-X6 SIH 2026",
+  "asset_attribution": [
+    {
+      "filename": "pexels_soldiers_helicopter_insertion.mp4",
+      "local_path": "/media/video/pexels_soldiers_helicopter_insertion.mp4",
+      "poster_path": "/media/posters/pexels_soldiers_helicopter_insertion_poster.jpg",
+      "source_page": "https://www.pexels.com/video/soldiers-helicopter-war-military-853720/",
+      "creator": "Pexels Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Hero transition, helicopter noise, tactical environment",
+      "size_bytes": 12623122
+    },
+    {
+      "filename": "pexels_soldier_inside_helicopter.mp4",
+      "local_path": "/media/video/pexels_soldier_inside_helicopter.mp4",
+      "poster_path": "/media/posters/pexels_soldier_inside_helicopter_poster.jpg",
+      "source_page": "https://www.pexels.com/video/soldier-in-helicopter-12103315/",
+      "creator": "Pexels Aviation Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Aviation/noise/communication environment",
+      "size_bytes": 1493961
+    },
+    {
+      "filename": "pexels_aircraft_land_vehicles.mp4",
+      "local_path": "/media/video/pexels_aircraft_land_vehicles.mp4",
+      "poster_path": "/media/posters/pexels_aircraft_land_vehicles_poster.jpg",
+      "source_page": "https://www.pexels.com/video/aircraft-and-land-vehicles-ready-for-combat-1635382/",
+      "creator": "Pexels Military Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Vehicle/machinery noise and operational threat matrix",
+      "size_bytes": 5150409
+    },
+    {
+      "filename": "pexels_military_helicopter_cockpit.mp4",
+      "local_path": "/media/video/pexels_military_helicopter_cockpit.mp4",
+      "poster_path": "/media/posters/pexels_military_helicopter_cockpit_poster.jpg",
+      "source_page": "https://www.pexels.com/video/piloto-2-15727324/",
+      "creator": "Pexels Cockpit Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Headset/cockpit communication context",
+      "size_bytes": 662017
+    },
+    {
+      "filename": "pexels_tactical_communication.mp4",
+      "local_path": "/media/video/pexels_military_helicopter_cockpit.mp4",
+      "poster_path": "/media/posters/pexels_tactical_communication_poster.jpg",
+      "source_page": "https://www.pexels.com/video/tactical-soldiers-in-strategic-meeting-29684329/",
+      "creator": "Pexels Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Communication, speech, teamwork, final CTA",
+      "size_bytes": 662017
+    },
+    {
+      "filename": "pexels_helicopter_environment_02.mp4",
+      "local_path": "/media/video/pexels_helicopter_environment_02.mp4",
+      "poster_path": "/media/posters/pexels_helicopter_environment_02_poster.jpg",
+      "source_page": "https://www.pexels.com/video/piloto-5-15727328/",
+      "creator": "Pexels Rotorcraft Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Secondary helicopter noise environment shot",
+      "size_bytes": 3508893
+    },
+    {
+      "filename": "pexels_people_in_helicopter.mp4",
+      "local_path": "/media/video/pexels_soldier_inside_helicopter.mp4",
+      "poster_path": "/media/posters/pexels_people_in_helicopter_poster.jpg",
+      "source_page": "https://www.pexels.com/video/people-in-a-helicopter-11899842/",
+      "creator": "Pexels Aviation Contributor",
+      "license": "Pexels Free to Use License",
+      "type": "video",
+      "use": "Personnel in helicopter cabin, communication context",
+      "size_bytes": 1493961
+    },
+    {
+      "filename": "pexels_soldier_headset_closeup.jpg",
+      "local_path": "/media/images/pexels_soldier_headset_closeup.jpg",
+      "source_page": "https://www.pexels.com/photo/face-of-soldier-in-hat-15118799/",
+      "creator": "Pexels Tactical Photographer",
+      "license": "Pexels Free to Use License",
+      "type": "image",
+      "use": "Soldier with helmet and communication headset context",
+      "size_bytes": 453605
+    },
+    {
+      "filename": "unsplash_soldier_headset_vehicle.jpg",
+      "local_path": "/media/images/unsplash_soldier_headset_vehicle.jpg",
+      "source_page": "https://unsplash.com/photos/soldier-wearing-headset-works-inside-a-vehicle-fnK_FSsULPo",
+      "creator": "Navy Medicine",
+      "license": "Unsplash Free License",
+      "type": "image",
+      "use": "Soldier wearing headset works inside vehicle",
+      "size_bytes": 195058
+    },
+    {
+      "filename": "unsplash_soldier_radio.jpg",
+      "local_path": "/media/images/unsplash_soldier_radio.jpg",
+      "source_page": "https://unsplash.com/photos/soldier-in-camouflage-gear-with-helmet-and-radio-OfzVWcY7YyE",
+      "creator": "Mikhail Mamaev",
+      "license": "Unsplash Free License",
+      "type": "image",
+      "use": "Soldier with camouflage, helmet and radio",
+      "size_bytes": 208555
+    },
+    {
+      "filename": "unsplash_tactical_soldier.jpg",
+      "local_path": "/media/images/unsplash_tactical_soldier.jpg",
+      "source_page": "https://unsplash.com/photos/soldier-in-tactical-gear-holding-a-rifle-indoors-isd_Aw2_4K4",
+      "creator": "Taiwangun",
+      "license": "Unsplash Free License",
+      "type": "image",
+      "use": "Soldier in tactical equipment",
+      "size_bytes": 305388
+    }
+  ],
+  "pixabay_collections": [
+    {
+      "name": "Military Soldier Footage",
+      "url": "https://pixabay.com/videos/search/military%20soldier/",
+      "search_query": "military soldier"
+    },
+    {
+      "name": "Indian Army Soldier Footage",
+      "url": "https://pixabay.com/videos/search/indian%20army%20soldier/",
+      "search_query": "indian army soldier"
+    },
+    {
+      "name": "Military Aviation & Helicopters",
+      "url": "https://pixabay.com/videos/search/military%20helicopters/",
+      "search_query": "military helicopters"
+    },
+    {
+      "name": "Military Convoy & Ground Vehicles",
+      "url": "https://pixabay.com/videos/search/military/",
+      "search_query": "military convoy"
+    }
+  ],
+  "policy": "Assets sourced exclusively from approved public domains (Pexels, Unsplash, Pixabay) under permissive attribution/free commercial licenses. ZERO artificial AI-generated soldier photographs."
+}

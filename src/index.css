@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --tac-bg: #08100c;
+    --tac-surface: #0d1511;
+    --tac-elevated: #141d18;
+    --tac-card: #0f1813;
+    --tac-border: #1c2821;
+    --tac-border-med: #2d3d33;
+    --signal-mint: #00e599;
+    --signal-cyan: #00e5ff;
+    --signal-amber: #f59e0b;
+    --signal-ai: #818cf8;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    color-scheme: dark;
+  }
+
+  body {
+    background-color: var(--tac-bg);
+    color: #e2e8f0;
+    overflow-x: hidden;
+  }
+
+  /* Custom tactical scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #08100c;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #1c2821;
+    border-radius: 2px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #2d3d33;
+  }
+}
+
+@layer utilities {
+  .bg-grid-tactical {
+    background-size: 32px 32px;
+    background-image: 
+      linear-gradient(to right, rgba(28, 40, 33, 0.4) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(28, 40, 33, 0.4) 1px, transparent 1px);
+  }
+
+  .bg-grid-fine {
+    background-size: 16px 16px;
+    background-image: 
+      linear-gradient(to right, rgba(0, 229, 255, 0.05) 1px, transparent 1px),
+      linear-gradient(to bottom, rgba(0, 229, 255, 0.05) 1px, transparent 1px);
+  }
+
+  .tactical-border {
+    border: 1px solid rgba(45, 61, 51, 0.6);
+  }
+
+  .tactical-border-subtle {
+    border: 1px solid rgba(28, 40, 33, 0.6);
+  }
+
+  .tactical-border-active {
+    border: 1px solid rgba(0, 229, 255, 0.5);
+  }
+
+  .tactical-glass {
+    background-color: rgba(13, 21, 17, 0.85);
+    backdrop-filter: blur(8px);
+  }
+
+  .text-glow-cyan {
+    text-shadow: 0 0 12px rgba(0, 229, 255, 0.5);
+  }
+
+  .text-glow-mint {
+    text-shadow: 0 0 12px rgba(0, 229, 153, 0.5);
+  }
+}
